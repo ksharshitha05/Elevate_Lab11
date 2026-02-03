@@ -104,31 +104,14 @@ jupyter notebook svm_breast_cancer.ipynb
 
 (Or open and run directly in **Google Colab**)
 
----
 
-## 🎯 Learning Outcome
 
-* Understanding SVM margins and kernels
-* Importance of feature scaling in distance-based algorithms
-* Practical experience with hyperparameter tuning
-* Professional ML workflow using pipelines
-
----
-
-## 🧠 Interview Questions Covered
-
-* What is margin in SVM?
-* Difference between Linear and RBF kernel
-* What is C parameter?
-* What is gamma?
-* Why is scaling required for SVM?
-
----
 
 ## ✅ Final Outcome
 
 This task demonstrates a complete **end-to-end SVM classification workflow** with proper evaluation, tuning, and model persistence — aligned with real-world machine learning practices and internship expectations.
 
----
+# Output
 
-📌 *Internship Task 11 – AI & ML Internship*
+<img width="797" height="588" alt="Image" src="https://github.com/user-attachments/assets/e191b368-4019-4ee5-886b-ce22c99d8ddc" />
+
